@@ -1,10 +1,11 @@
 name: my_button
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: Easy and Pretty ElevatedButton
+version: 1.0.0
+repository: https://github.com/shw779/my_button
+homepage: https://github.com/shw779/my_button
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: ">=3.1.5 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
